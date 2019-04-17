@@ -7,8 +7,7 @@ TO RUN:
 
 Features available
 - Player Vs Player (Local)
-- Player Vs Computer (3 difficulties)
+- Player Vs Computer (3 difficulties) (Code here is a bit rough as it was rushed)
 - Pause menu while playing a game via hitting Esc
 - Music
-- Computer Difficulty (Easy, Medium, Hard) (Code here is a bit rough as it was rushed)
 - 3X3, 4x4, and 5X5 game-boards
